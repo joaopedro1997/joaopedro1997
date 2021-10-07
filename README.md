@@ -1,6 +1,6 @@
 ## Hi 👋, I'm João Pedro
 
-- 🔭 I’m currently working at Elleven Tecnologia
+- 🔭 I’m currently working at Multti
 - 🌱 I’m currently learning Node, ReactJs, PHP/Laravel, Typescript, Docker, SOLID and Clean Code.
 
 <div>
